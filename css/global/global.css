@@ -23,6 +23,7 @@ h3,
 h4,
 ul,
 span,
-p {
+p,
+blockquote {
   margin: 0px;
 }
